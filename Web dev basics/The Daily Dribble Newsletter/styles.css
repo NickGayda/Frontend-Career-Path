@@ -1,0 +1,53 @@
+.header-main {
+    color: #121212;
+    text-align: center;
+}
+
+.img-stadium {
+    display: block;
+    width: 380px;
+    margin: 0 auto;
+    border: 3px solid #121212;
+}
+
+.p-main {
+    font-style: italic;
+    font-size: 16px;
+    text-align: center;
+    width: 380px;
+    margin: 20px auto;
+}
+
+.input-email {
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+    border: 3px solid #121212;
+    padding: 8px 0px;
+    font-weight: bold;
+    font-size: 16px;
+    width: 244px;
+}
+
+.btn {
+    display: block;
+    margin: 10px auto;
+    background: #121212;
+    font-weight: bold;
+    font-size: 16px;
+    color: white;
+    padding: 8px 0px;
+    width: 250px;
+}
+
+.p-terms {
+    font-style: italic;
+    font-size: 16px;
+    text-align: center;
+    width: 380px;
+    margin: 20px auto;
+}
+
+.a-terms {
+    color: #121212;
+}
