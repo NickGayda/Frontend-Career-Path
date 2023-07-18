@@ -1,21 +1,12 @@
-# co1bd49bdae48c760fc1fd6f1
+A space exploration page built using HTML and CSS.
 
-Quick start:
+Concepts learned for this project:
+  Background images
+  Webp format
+  Google Fonts
+  The <span> tag
+  IDs & utility classes
+  Text-shadow
 
-```
-$ npm install
-$ npm start
-````
-
-Head over to https://vitejs.dev/ to learn more about using vite
-## About Scrimba
-
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
-
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
-
-Happy Coding!
+Image of the webpage is below.
+![image](https://github.com/NickGayda/Frontend-Career-Path/assets/54640052/932ebc25-89b6-4d76-a73a-eee4c884ec5c)
