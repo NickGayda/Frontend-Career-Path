@@ -2,17 +2,17 @@ A space exploration page built using HTML and CSS.
 
 Concepts learned for this project:
 
-  Background images
+    Background images
   
-  Webp format
+    Webp format
   
-  Google Fonts
+    Google Fonts
   
-  The <span> tag
+    The <span> tag
   
-  IDs & utility classes
+    IDs & utility classes
   
-  Text-shadow
+    Text-shadow
   
 Image of the webpage is below.
 
