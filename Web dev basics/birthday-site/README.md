@@ -1,21 +1,19 @@
-# co15d4c199ff9e5d00a02cd69
+A birthday website built using HTML and CSS. Most of the design of the webpage was guided, but I customized it for SpongeBob.
 
-Quick start:
+Concepts learned in this section include:
 
-```
-$ npm install
-$ npm start
-````
+    align-items
 
-Head over to https://vitejs.dev/ to learn more about using vite
-## About Scrimba
+    flex-direction
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+    :hover
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+    Gradients
 
-Happy Coding!
+    Grouping selector
+
+    GitHub Desktop
+
+    VS Code
+
+Web page hosted here. https://birthday-site-nickgayda.netlify.app/
