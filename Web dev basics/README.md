@@ -1,1 +1,4 @@
-Learn HTML and CSS course provided through Scrimba. https://scrimba.com/learn/htmlandcss/
+Module 2
+
+Web dev basics
+Learn the very basics of HTML and CSS. Start creating layouts, and style them how you want.
