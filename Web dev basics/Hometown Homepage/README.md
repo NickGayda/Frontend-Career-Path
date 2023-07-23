@@ -4,4 +4,5 @@ Provided Figma design: https://www.figma.com/file/2QuGfAOcHaZJ6aHXfuamnK/Hometow
 
 Web page is hosted here. https://hometown-homepage-nickgayda.netlify.app/
 
+Below is the image that was provided for the project.
 ![Hometown Homepage](https://github.com/NickGayda/Frontend-Career-Path/assets/54640052/86e664c9-e787-4025-87f2-d6672c72d413)
