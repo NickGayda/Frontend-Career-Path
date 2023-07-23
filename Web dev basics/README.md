@@ -1,4 +1,4 @@
-Module 2
+Module 2 of the Frontend Career Path offered on Scrimba.
 
 Web dev basics
 
