@@ -1,21 +1,8 @@
-# co31d42cb8cdf6000488fc6b9
+A basketball scoreboard solo project built to implement newly learned JavaScript functionalities. An image of the desired project was provided and I was expected to build the page using HTML, CSS and Javascript. I was also given a template on Figma that I could use to judge element size and spacing.
 
-Quick start:
+Provided Figma design: https://www.figma.com/file/YC48MCx4frBFtYoz6rNJE6/Basketball-Scoreboard?node-id=126%3A14&mode=dev
 
-```
-$ npm install
-$ npm start
-````
+Web page is hosted here. https://basketball-scoreboard-nickgayda.netlify.app/
 
-Head over to https://vitejs.dev/ to learn more about using vite
-## About Scrimba
-
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
-
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
-
-Happy Coding!
+Below is the image that was provided for the project.
+![Basketball Scoreboard](https://github.com/NickGayda/Frontend-Career-Path/assets/54640052/19074c0e-645f-4ff5-bb44-f9208fecb9ca)
