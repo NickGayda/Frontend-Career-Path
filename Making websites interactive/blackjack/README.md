@@ -1,21 +1,23 @@
-# co1364f8aac3204cab606b147
+A introductory blackjack game built with HTML, CSS, and JavaScript. This game was built throughout the course and used to show basic JavaScript functionalities. This is no where near a perfect blackjack app, but was used to learn concepts. 
 
-Quick start:
+Web page is hosted here. https://introductory-blackjack-nickgayda.netlify.app/
 
-```
-$ npm install
-$ npm start
-````
+Concepts learned from this project:
 
-Head over to https://vitejs.dev/ to learn more about using vite
-## About Scrimba
+    arrays
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+    objects
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+    booleans
 
-Happy Coding!
+    if else statements
+
+    comparison operators
+
+    logical operators
+
+    for loops
+
+    The Math object
+
+    return statements
