@@ -1,21 +1,8 @@
-# coa104395b749af6e1e42e4ee
+A password generator solo project built to implement newly learned JavaScript functionalities. An image of the desired project was provided and I was expected to build the page using HTML, CSS and Javascript. I was also given a template on Figma that I could use to judge element size and spacing. I followed the guidelines and also added a bonus functionality that allows for the user to click on the passwords to copy them to their clipboard!
 
-Quick start:
+Provided Figma design: https://www.figma.com/file/NEj9JDycMjF3XKXq7swoc9/Random-Password-Generator-(New-version)?node-id=0%3A1&mode=dev
 
-```
-$ npm install
-$ npm start
-````
+Web page is hosted here. https://password-generator-nickgayda.netlify.app/
 
-Head over to https://vitejs.dev/ to learn more about using vite
-## About Scrimba
-
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
-
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
-
-Happy Coding!
+Below is the image that was provided for the project.
+![Password Generator](https://github.com/NickGayda/Frontend-Career-Path/assets/54640052/88642ec8-a013-48e5-b1b0-a13352b82644)
