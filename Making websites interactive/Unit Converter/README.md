@@ -1,21 +1,8 @@
-# cof414eb5aa1f05899e53c091
+A unit converter solo project built to implement newly learned JavaScript functionalities. An image of the desired project was provided and I was expected to build the page using HTML, CSS, and JavaScript. I was also given a template on Figma that I could use to judge element size and spacing. I followed the guidelines to make this a functional unit converter and I added a feature to make sure only valid numbers are converted.
 
-Quick start:
+Provided Figma design: https://www.figma.com/file/cqtGul0V8RFXY4vTcIv1Kc/Unit-Conversion?node-id=41105%3A1268&mode=dev
 
-```
-$ npm install
-$ npm start
-````
+Web page is hosted here. https://unit-converter-nickgayda.netlify.app/
 
-Head over to https://vitejs.dev/ to learn more about using vite
-## About Scrimba
-
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
-
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
-
-Happy Coding!
+Below is the image that was provided for the project.
+![Unit Converter](https://github.com/NickGayda/Frontend-Career-Path/assets/54640052/c31b1abe-3bd7-493b-a79d-ddfdcb84fdaa)
