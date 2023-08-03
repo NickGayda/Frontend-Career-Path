@@ -1,0 +1,29 @@
+<html>
+    <head><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.css">
+        <link rel="stylesheet" href="index.css">
+    </head>
+    <body>
+        <div id="container">
+            <div id="head-container">
+                <h1 id="header">Metric/Imperial Unit Conversion</h1>
+                <input type="text" id="number-input" maxlength="4" value="123">
+                <button id="convert-btn">Convert</button>
+            </div>
+            <div id="conversion-container">
+                <div class="conversion-display" id="length-container">
+                    <h2 class="conversion-header">Length (Meter/Feet)</h2>
+                    <p class="conversion-paragraph" id="length-conversions">123 meters = 403.563 feet | 123 feet = 37.489 meters</p>
+                </div>
+                <div class="conversion-display" id="volume-container">
+                    <h2 class="conversion-header">Volume (Liters/Gallons)</h2>
+                    <p class="conversion-paragraph" id="volume-conversions">123 liters = 32.472 gallons | 123 gallons = 465.909 liters</p>
+                </div>
+                <div class="conversion-display" id="mass-container">
+                    <h2 class="conversion-header">Mass (Kilograms/Pounds)</h2>
+                    <p class="conversion-paragraph" id="mass-conversions">123 kilos = 271.092 pounds | 123 pounds = 55.808 kilos</p>
+                </div>
+            </div>
+        </div>
+        <script src="index.js"></script>
+    </body>
+</html>
