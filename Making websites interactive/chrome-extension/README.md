@@ -1,21 +1,25 @@
-# coc8640b4ab7ea074c56f6bdc
+A URL saving chrome extension built with HTML, CSS, and JavaScript. This extension was built throughout the course and used to show JavaScript functionalities. It utilizes local storage to be able to save the urls even when the tab is closed or refreshed.
 
-Quick start:
+The SAVE INPUT button will save the input url in the textbox. The SAVE TAB button will save the current tab to the list. The DELETE ALL button will delete all the save urls with a DOUBLE CLICK.
 
-```
-$ npm install
-$ npm start
-````
+![image](https://github.com/NickGayda/Frontend-Career-Path/assets/54640052/f90c7576-4945-431e-99d9-ba5d814fe3ac)
 
-Head over to https://vitejs.dev/ to learn more about using vite
-## About Scrimba
+Concepts learned from this project:
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+    const
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+    addEventListener()
 
-Happy Coding!
+    innerHTML
+
+    input.value
+
+    function parameters
+
+    template strings
+
+    localStorage
+
+    The JSON object
+
+    objects in arrays
