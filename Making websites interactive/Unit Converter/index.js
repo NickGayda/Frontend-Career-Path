@@ -15,6 +15,8 @@ const massParagraph = document.getElementById("mass-conversions")
 
 convertBtn.addEventListener("click", function() {
     const num = numberInput.value
+	
+	if (isNaN(num)) { return; }
     
     lengthParagraph.textContent = `${num} meters = ${(num * METERTOFEET).toFixed(3)} feet | ${num} feet = ${(num / METERTOFEET).toFixed(3)} meters`
     
