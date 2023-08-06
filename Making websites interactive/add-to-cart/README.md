@@ -1,21 +1,5 @@
-# coaa64db1a8c17362690a5bff
+A shopping list application that uses a realtime database with Firebase and can be used as a mobile app. This application was built throughout the course and used to show JavaScript functionalities and interact with my first realtime database.
 
-Quick start:
+To use the app you simply type out which item you want to add to your shopping list, and hit add to cart! To delete the item, you click on it and it will be removed.
+![image](https://github.com/NickGayda/Frontend-Career-Path/assets/54640052/a143fae6-a629-4df8-a907-ce6c6c39e07c) ![image](https://github.com/NickGayda/Frontend-Career-Path/assets/54640052/fc699bfa-bad0-495a-b207-4ef10e060a3f)
 
-```
-$ npm install
-$ npm start
-````
-
-Head over to https://vitejs.dev/ to learn more about using vite
-## About Scrimba
-
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
-
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
-
-Happy Coding!
