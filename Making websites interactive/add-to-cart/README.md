@@ -6,4 +6,4 @@ To use the app you simply type out which item you want to add to your shopping l
 
 Below is an image of the application on my phone!
 
-![image](https://github.com/NickGayda/Frontend-Career-Path/assets/54640052/c1cc145c-bdf2-467c-86bb-007617b9fc42)
+![addtocart-phone](https://github.com/NickGayda/Frontend-Career-Path/assets/54640052/245bfc94-a169-4738-89b2-01d919acd9d5)
