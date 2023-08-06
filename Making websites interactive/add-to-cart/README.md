@@ -8,3 +8,38 @@ Below is an image of the application on my phone!
 
 ![addtocart-phone](https://github.com/NickGayda/Frontend-Career-Path/assets/54640052/b37043db-ef05-4183-9178-36e4b6650e0b)
 
+Concepts learned from this project:
+
+    import
+
+    Firebase: initializeApp
+
+    Firebase: getDatabase
+
+    Firebase: reference
+
+    Firebase: push
+
+    Firebase: onValue
+
+    Firebase: snapshot
+
+    IDs
+
+    Firebase: remove
+
+    Objects into Arrays
+
+    createElement
+
+    Flexbox: flex-wrap
+
+    Flexbox: gap
+
+    user-select
+
+    Setting the viewport
+
+    Favicon
+
+    Web Application Manifest
