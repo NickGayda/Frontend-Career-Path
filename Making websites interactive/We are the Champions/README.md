@@ -1,21 +1,19 @@
-# co4934d49933abc42a9397914
+A endorsment application solo project that uses a realtime database with Firebase and can be used as a personal mobile app. An image of the desired project was provided and I was expected to build the page using HTML, CSS, and JavaScript. I was also given a template on Figma that I could use to judge element size and spacing. I followed the guidelines to make the application functional and I also added the feature of having a To and From input.
 
-Quick start:
+NOTE: Since there is only one database, this application can only be used by me, but below shows how it works!
 
-```
-$ npm install
-$ npm start
-````
+To use the app you simply type out the endoresment message and fill in the to and from inputs! Once you publish the message, it gets added to the realtime database and will be displayed. To delete the item, you click on it and it will be removed.
 
-Head over to https://vitejs.dev/ to learn more about using vite
-## About Scrimba
+Provided Figma design: https://www.figma.com/file/SgWlM7qkqTQa7fiGEcLKew/We-are-the-Champions?node-id=1%3A28&mode=dev
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+Image that was provided.
+![We are the Champions - base goals](https://github.com/NickGayda/Frontend-Career-Path/assets/54640052/b6efb602-8171-4bc7-a6a7-ba23f7f28816)
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+Image of the database.
+![image](https://github.com/NickGayda/Frontend-Career-Path/assets/54640052/7912f1ae-a245-46f5-a40f-9aa85fe72e00)
 
-Happy Coding!
+Image of the application open on my phone.
+![0](https://github.com/NickGayda/Frontend-Career-Path/assets/54640052/74c9c81b-ca2e-40e0-91ad-025930d4161c)
+
+Image of the application on my home screen.
+![0](https://github.com/NickGayda/Frontend-Career-Path/assets/54640052/cabff1a4-26c3-40c4-8981-9896ca6004cc)
