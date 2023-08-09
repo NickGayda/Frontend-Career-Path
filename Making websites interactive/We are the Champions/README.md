@@ -1,7 +1,5 @@
 A endorsment application solo project that uses a realtime database with Firebase and can be used as a personal mobile app. An image of the desired project was provided and I was expected to build the page using HTML, CSS, and JavaScript. I was also given a template on Figma that I could use to judge element size and spacing. I followed the guidelines to make the application functional and I also added the feature of having a To and From input.
 
-NOTE: Since there is only one database, this application can only be used by me, but below shows how it works!
-
 To use the app you simply type out the endoresment message and fill in the to and from inputs! Once you publish the message, it gets added to the realtime database and will be displayed. To delete the item, you click on it and it will be removed.
 
 Provided Figma design: https://www.figma.com/file/SgWlM7qkqTQa7fiGEcLKew/We-are-the-Champions?node-id=1%3A28&mode=dev
