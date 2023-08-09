@@ -2,7 +2,7 @@ A endorsment application solo project that uses a realtime database with Firebas
 
 To use the app you simply type out the endoresment message and fill in the to and from inputs! Once you publish the message, it gets added to the realtime database and will be displayed. To delete the item, you click on it and it will be removed.
 
-![Loom _ Free Screen  Video Recording Software _ Loom - 8 August 2023](https://github.com/NickGayda/Frontend-Career-Path/assets/54640052/5c35fb68-b316-49ec-8552-b2305052efb4)
+https://github.com/NickGayda/Frontend-Career-Path/assets/54640052/4aa6a92c-b795-42c8-a76b-86791926550c
 
 Provided Figma design: https://www.figma.com/file/SgWlM7qkqTQa7fiGEcLKew/We-are-the-Champions?node-id=1%3A28&mode=dev
 
