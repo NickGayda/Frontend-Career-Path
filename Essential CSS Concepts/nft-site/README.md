@@ -1,21 +1,17 @@
-# coddb4e28a38d246b90e9b9a5
+An example NFT website built with HTML and CSS to learn more CSS concepts.
 
-Quick start:
+Web page is hosted here. https://nft-site-nickgayda.netlify.app/
 
-```
-$ npm install
-$ npm start
-````
+Concepts learned for this project:
 
-Head over to https://vitejs.dev/ to learn more about using vite
-## About Scrimba
+    Semantic HTML
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+    Hover and active states using pseudo selectors
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+    Specificity
 
-Happy Coding!
+    Compound selectors (and when to avoid them)
+
+    Inline-block
+
+    Multiple classes on one element
