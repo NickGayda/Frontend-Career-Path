@@ -1,6 +1,6 @@
 An Instagram clone called Oldagram that is built with HTML, CSS, and JavaScript. The orginal goal of this solo project was to sharpen my CSS skills. I completed the stretch goals as well, which included some JavaScript code. The page is dynamically built with JavaScript, so it is easy to add more posts if wanted. I also added a like feature, where you can like/unlike a post by double clicking the photo or by clicking the like button. I was given a Figma template and goals for completing this project.
 
-https://github.com/NickGayda/Frontend-Career-Path/assets/54640052/482a6163-8f29-4466-a8f7-1ddbe63b2278
+https://github.com/NickGayda/Frontend-Career-Path/assets/54640052/3c55b15d-4312-4ce3-ac35-574183910d84
 
 Web page is hosted here. https://oldagram-nickgayda.netlify.app/
 
