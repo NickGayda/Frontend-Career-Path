@@ -2,7 +2,7 @@ An example NFT website built with HTML and CSS to learn more CSS concepts.
 
 Web page is hosted here. https://nft-site-nickgayda.netlify.app/
 
-Concepts learned for this project:
+Concepts learned from this project:
 
     Semantic HTML
 
