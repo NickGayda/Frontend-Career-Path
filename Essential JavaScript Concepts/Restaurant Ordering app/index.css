@@ -1,0 +1,256 @@
+body {
+    margin: 0;
+    font-family: 'Smythe', cursive;
+    user-select: none;
+} 
+
+.container {
+    width: 600px;
+    margin: 0 auto;
+}
+
+.banner {
+    background: url('images/banner.png'), lightgray 50% / cover no-repeat;
+    color: #FFF;
+    height: 167px;
+}
+
+.banner-text {
+    padding: 40px;
+}
+
+.content {
+    margin-top: 60px;
+}
+
+.item{
+    border-bottom: 1px solid lightgray;
+    padding: 20px 0 0 0;
+    width: 504px;
+    margin: 0 auto;
+}
+
+.item-inner {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    gap: 15px;
+    padding-bottom: 50px;
+}
+
+.item-details {
+    text-align: left;
+    width: 75%;
+}
+
+.item-food {
+    font-size: 28px;
+    margin: 0 0 4px 0;
+}
+
+.item-food-ingredients {
+    color: #8B8B8B;
+    font-size: 16px;
+    margin: 0 0 16px 0;
+}
+
+.item-food-price {
+    font-size: 20px;
+    margin: 0;
+}
+
+.order {
+    margin-top: 45px;
+}
+
+.order-details {
+    width: 504px;
+    margin: 0 auto;
+}
+
+.order-items {
+    border-bottom: 2px solid #393333;
+    margin-top: 64px;
+}
+
+.order-item {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 10px;
+}
+
+.order-item-food {
+    font-size: 28px;
+}
+
+.order-item-remove {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 12px;
+    color: #BBB;
+    margin-left: 13px;
+    cursor: pointer;
+}
+
+.order-item-price {
+    font-size: 20px;
+    margin-left: auto;
+}
+
+.order-total {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 10px;
+}
+
+.btn {
+    border: none;
+    border-radius: 3px;
+    background: #16DB99;
+    color: #FFF;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16px;
+    font-weight: 700;
+    margin: 50px auto;
+    display: block;
+    padding: 18px 184px;
+    cursor: pointer;
+}
+
+.btn:hover {
+    background: #16BB79;
+}
+
+h1 {
+    font-size: 39px;
+    font-weight: 400;
+    margin: 0;
+}
+
+h2 {
+    font-size: 22px;
+    font-weight: 400;
+    margin: 0;
+}
+
+h3 {
+    font-size: 28px;
+    font-weight: 400;
+    margin: 0;
+    text-align: center;
+}
+
+.item-img {
+    font-size: 78.72px;
+    opacity: 0.72;
+    width: 140px;
+    text-align: center;
+}
+
+.material-symbols-outlined {
+    font-variation-settings:
+    'FILL' 0,
+    'wght' 200,
+    'GRAD' 0,
+    'opsz' 24;
+    font-size: 50px;
+    cursor: pointer;
+}
+
+.hidden {
+    display: none;
+}
+
+.payment-container {
+    display: none;
+    position: fixed;
+    right: 0;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+    height: 542px;
+    width: 524px;
+    border-radius: 4px;
+    box-shadow: 0px 0px 6px 2px #666;
+    background-color: #FFF;
+    color: #000;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.payment-close-btn-container {
+    text-align: right;
+    margin: 9px;
+}
+
+.payment-close-btn {
+    font-size: 30px;
+    font-weight: bold;
+    background-color: transparent;
+    border: 1px solid transparent;
+    color: #000;
+}
+
+.payment-close-btn:hover,
+.payment-close-btn:active{
+    color: red;
+    cursor: pointer;
+}
+
+.payment-inner {
+    text-align: center;
+}
+
+h4 {
+    font-size: 30px;
+    font-weight: 700;
+}
+
+input {
+    display: block;
+    width: 80%;
+    margin: 0 auto;
+    font-size: 20px;
+    margin-bottom: 23px;
+    padding: 17px 27px;
+    font-family: inherit;
+}
+
+.payment-submit-btn {
+    border: none;
+    border-radius: 3px;
+    background: #16DB99;
+    color: #FFF;
+    font-family: inherit;
+    font-size: 16px;
+    font-weight: 700;
+    display: block;
+    margin: 45px auto 30px;
+    padding: 18px 184px;
+    cursor: pointer;
+}
+
+.submit-container {
+    width: 504px;
+    margin: 45px auto;
+    border-radius: 3px;
+    background: #ECFDF5;
+    text-align: center;
+}
+
+.submit-message {
+    color: #065F46;
+    font-size: 32px;
+    padding: 50px 60px;
+}
+
+.overlay {
+    position: fixed; /* Positioning and size */
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background-color: rgba(128,128,128,0.5); /* color */
+    display: none; /* making it hidden by default */
+  }
