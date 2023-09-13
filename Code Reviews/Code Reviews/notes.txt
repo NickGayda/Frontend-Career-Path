@@ -15,5 +15,3 @@ Over-the-shoulder review
 
 - Provide suggestions through a conversation
 - Often more immediate, nuanced feedback
-
-https://scrimba.com/scrim/co55d4690a14e0f9e001da96d
