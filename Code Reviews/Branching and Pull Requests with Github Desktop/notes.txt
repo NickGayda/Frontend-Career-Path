@@ -1,0 +1,26 @@
+Make an issue on Github
+- Change that needs to be made to code
+
+Create a new branch
+- Name of branch: issue number, followed by a short and descriptive name
+- Make the change!
+- Commit changes
+- Publish branch
+
+Create a pull request
+- Write a short description of the change made and the reason for the change
+- Can request reviewers
+- After review can merge branch if successful
+- Close the issue because it has been fixed
+- Can remove the local/remote branch
+
+Merge Conflicts
+- Trying to merge two branches with conflicting changes
+- Still create a pull request
+- Then resolve the merge conflicts
+- Make the code look like you want to and then mark as resolved
+- Then commit the merge
+
+Pulling
+- Fetch origin to pull the current version of the branch you are on
+- Next hit pull origin for the changes to apply locally
