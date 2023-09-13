@@ -1,0 +1,19 @@
+Code review guide
+
+- Understand the code
+- Functionality
+- Code formatting
+- Naming conventions
+- Consistency
+- Simplicity
+- Unused code
+- Duplicate code
+- Potential edge cases
+- Praise your peers
+
+Over-the-shoulder review
+
+- Provide suggestions through a conversation
+- Often more immediate, nuanced feedback
+
+https://scrimba.com/scrim/co55d4690a14e0f9e001da96d
