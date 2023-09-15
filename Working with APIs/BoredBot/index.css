@@ -1,0 +1,36 @@
+html, body {
+    margin: 0;
+    background-color: #065706;
+    font-family: 'Oxygen', sans-serif;
+}
+
+.container {
+    background-color: #087208;
+    width: 400px;
+    margin: 1em auto;
+    text-align: center;
+    padding: 2em;
+    color: #e9f1cc;
+    border-radius: 5px;
+}
+
+h1 {
+    font-size: 3rem;
+}
+
+h2 {
+    font-size: 1.5rem;
+}
+
+button {
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    border: 1px solid #000;
+    cursor: pointer;
+    background-color: #eb6b5c;
+}
+
+button:hover {
+    background-color: #ebe2e2;
+}
