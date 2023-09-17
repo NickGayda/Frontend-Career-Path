@@ -1,0 +1,30 @@
+<html>
+    <head>
+        <title>Color Scheme Generator</title>
+        <link rel="stylesheet" href="index.css">
+    </head>
+    <body>
+        <div class="main-container">
+            <div class="selection-container">
+                <input id="selection-color" type="color" value="#F55A5A">
+                <select class="flex-block" id="selection-scheme">
+                    <option value="monochrome">Monochrome</option>
+                    <option value="monochrome-dark">Monochrome-dark</option>
+                    <option value="monochrome-light">Monochrome-light</option>
+                    <option value="analogic">Analogic</option>
+                    <option value="complement">Complement</option>
+                    <option value="analogic-complement">Analogic-complement</option>
+                    <option value="triad">Triad</option>
+                    <option value="quad">Quad</option>
+                </select>
+                <input id="selection-count" type="number" value="5" max="7" min="4">
+                <button id="selection-button">Get color scheme</button>
+            </div>
+            <div class="results-container" id="results=container">
+                <div class="color-results" id="color-results"></div>
+                <div class="hex-results" id="hex-results"></div>
+            </div>
+        </div>
+        <script src="index.js"></script>
+    </body>
+</html>

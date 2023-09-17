@@ -1,0 +1,97 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    background-color: #1F2937;
+}
+
+/* Containers */
+
+.main-container {
+    width: 550px;
+    margin: 50px auto;
+    border: 2px solid white;
+    border-radius: 3px;
+    color: #D5D4D8;
+}
+
+.selection-container {
+    padding: 24px 15px;
+    height: 42px;
+    gap: 20px;
+}
+
+/* Flex display */
+
+.selection-container,
+.color-results,
+.hex-results {
+    display: flex;
+}
+
+/* Selection Container Elements */
+
+.selection-container > #selection-color,
+.selection-container > #selection-scheme,
+.selection-container > #selection-scheme *,
+.selection-container > #selection-count,
+.selection-container > #selection-count::-webkit-inner-spin-button,
+.selection-container > #selection-button {
+    cursor: pointer;
+}
+
+.selection-container > #selection-color {
+    height: 42px;
+}
+
+.selection-container > #selection-scheme,
+.selection-container > #selection-count {
+    background-color: #1F2937;
+    border: 1px solid #D1D5DB;
+    border-radius: 6px;
+    color: inherit;
+    padding-left: 5px;
+    font-family: inherit;
+    font-size: 16px;
+}
+
+.selection-container > #selection-scheme * {
+    background-color: #1F2937;
+}
+
+.selection-container > #selection-count {
+    width: 40px;
+}
+
+.selection-container > #selection-button {
+    border: none;
+    border-radius: 4px;
+    background: #3D4B60;
+    color: inherit;
+    font-family: inherit;
+    font-size: 12px;
+    padding: 1em;
+}
+
+/* Results Containers */
+
+.hex-results,
+.color-results
+{
+    cursor: pointer;
+}
+
+.hex-results {
+    text-align: center;
+    font-size: 12px;
+    padding: 10px 0;
+}
+
+.color-results {
+    height: 414px;
+}
+
+/* Flex Class */
+
+.flex-block {
+    flex: 1;
+}
