@@ -1,0 +1,75 @@
+body {
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+    width: 500px;
+    margin: 0 auto;
+}
+
+nav {
+    text-align: center;
+    padding: 1em;
+    background-color: #dfdfdf;
+}
+
+h1 {
+    margin: 0;
+    font-size: 2rem;
+    letter-spacing: 1.5px;
+}
+
+.blog {
+    padding: 1em;
+    border-bottom: 1px solid black;
+}
+
+h2 {
+    margin: 0;
+    text-align: center;
+    font-size: 1.25rem;
+}
+
+p {
+    font-size: 0.9rem;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5em;
+    padding: 1em 0;
+    background-color: #c1ebe7;
+    text-align: center;
+}
+
+label {
+    font-weight: 700;
+}
+
+input {
+    width: 50%;
+}
+
+textarea {
+    width: 70%;
+    height: 100px;
+    resize: none;
+}
+
+button {
+    border: none;
+    padding: 0.5em 4em;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #51c7bb;
+}
+
+input,
+textarea,
+button {
+    align-self: center;
+    font-family: inherit;
+    background-color: #f8f8f8;
+}
