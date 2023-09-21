@@ -1,0 +1,74 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    font-family: "Exo 2", sans-serif;
+    font-weight: 700;
+    color: white;
+    background-color: black;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    background-image: url("img/table.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 500px;
+    height: 500px;
+    border: 2px solid white;
+    text-align: center;
+}
+
+.header {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.header p,
+h1,
+h2 {
+    margin: 0;
+}
+
+.main {
+    flex: 1;
+}
+
+.main h1 {
+    margin: 10px;
+}
+
+.card-outline,
+img {
+    display: block;
+    height: 126px;
+    width: 90px;
+    border-radius: 5px;
+    margin: 20px auto;
+}
+
+.card-outline {
+    border: 2px solid black;
+}
+
+button {
+    background-color: #FFF100;
+    cursor: pointer;
+    border: none;
+    padding: 5px;
+    font-family: inherit;
+    font-weight: inherit;
+}
+
+button.draw {
+    font-size: 1.2em;
+}
+
+button.draw:disabled {
+    cursor: not-allowed;
+}
