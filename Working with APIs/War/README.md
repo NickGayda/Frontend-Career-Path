@@ -5,3 +5,16 @@ Webpage is hosted here: https://war-nickgayda.netlify.app/
 API used: https://www.deckofcardsapi.com/
 
 Concepts learned from this project:
+
+    Callbacks
+        Functions as first-class objects
+        Built own .filter()
+    Promises
+        Three states (pending, fulfilled, rejected)
+        .then() and chaining
+    War Game
+        Deck of Cards API
+        Styling & Layout
+        Algorithm practice
+        UX improvements
+    Async/Await
