@@ -1,4 +1,4 @@
-A color scheme generator webpage built with HTML, CSS, and JavaScript. The goal of this project was to practice using APIs and to be able to correctly parse through the returned data.
+A movie watchlist webpage built with HTML, CSS, and JavaScript. The goal of this project was to practice using APIs and to be able to correctly parse through the returned data.
 The concept of the webpage is to search for and select movies you want to add to your watchlist. Once the movie is added, it is stored in local storage and you are able to view your movies in your watchlist.
 
 This project was built from scratch and my only guidance was the image and Figma file provided below.
