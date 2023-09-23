@@ -43,7 +43,7 @@ function addMovieToDisplay(movie) {
 }
 
 function removeMovieFromWatchlist(imdbID) {
-    fetch(`http://www.omdbapi.com/?apikey=${apiKey}&i=${imdbID}`)
+    fetch(`https://www.omdbapi.com/?apikey=${apiKey}&i=${imdbID}`)
         .then(res => res.json())
         .then(movie => {
             let movies = JSON.parse(localStorage.getItem('watchlist')) || []

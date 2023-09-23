@@ -20,7 +20,7 @@ movieForm.addEventListener('submit', (e) => {
 
     if (!search) { return }
 
-    fetch(`http://www.omdbapi.com/?apikey=${apiKey}&s=${search}&type=movie`)
+    fetch(`https://www.omdbapi.com/?apikey=${apiKey}&s=${search}&type=movie`)
         .then(res => res.json())
         .then(data => {
             movieDisplay.innerHTML = ''
@@ -31,7 +31,7 @@ movieForm.addEventListener('submit', (e) => {
             }
 
             data.Search.forEach(movie => {
-                fetch(`http://www.omdbapi.com/?apikey=${apiKey}&i=${movie.imdbID}`)
+                fetch(`https://www.omdbapi.com/?apikey=${apiKey}&i=${movie.imdbID}`)
                     .then(res => res.json())
                     .then(movie => {
                         addMovieToDisplay(movie)
@@ -74,7 +74,7 @@ function addMovieToDisplay(movie) {
 }
 
 function addMovieToWatchlist(imdbID) {
-    fetch(`http://www.omdbapi.com/?apikey=${apiKey}&i=${imdbID}`)
+    fetch(`https://www.omdbapi.com/?apikey=${apiKey}&i=${imdbID}`)
         .then(res => res.json())
         .then(movie => {
             const movies = JSON.parse(localStorage.getItem('watchlist')) || []
