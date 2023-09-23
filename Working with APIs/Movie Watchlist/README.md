@@ -5,6 +5,12 @@ This project was built from scratch and my only guidance was the image and Figma
 
 Webpage is hosted here: https://movie-watchlist-nickgayda.netlify.app/
 
+
+
+https://github.com/NickGayda/Frontend-Career-Path/assets/54640052/839a71aa-e8d2-407c-aafb-0130c4343b7a
+
+
+
 API used: https://www.omdbapi.com/
 
 Provided Figma Design: https://www.figma.com/file/jhFRdFIdHpRxsDznNXtpXw/Movie-Watchlist?node-id=2%3A17&mode=dev
