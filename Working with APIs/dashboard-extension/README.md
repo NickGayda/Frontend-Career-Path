@@ -7,4 +7,4 @@ OpenWeather API: https://openweathermap.org/current
 
 Image of the dashboard:
 
-![image](https://github.com/NickGayda/Frontend-Career-Path/assets/54640052/859f5e8f-1ea6-4da8-bf92-24322f2d7569)
+![image](https://github.com/NickGayda/Frontend-Career-Path/assets/54640052/ce6816ca-a870-4275-b9be-88386083044b)
