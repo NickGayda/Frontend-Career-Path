@@ -1,0 +1,101 @@
+* {
+    box-sizing: border-box;
+}    
+
+/* Main containers */
+
+body {
+    margin: 0;
+    background: no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-shadow:
+        0.05em 0 black,
+        0 0.05em black,
+        -0.05em 0 black,
+        0 -0.05em black,
+        -0.05em -0.05em black,
+        -0.05em 0.05em black,
+        0.05em -0.05em black,
+        0.05em 0.05em black;
+}
+
+main {
+    padding: 15px;
+    height: 100vh;
+}
+
+/* Flex displays */
+
+main,
+div.top,
+div.crypto-top,
+div.weather,
+div.weather-top {
+    display: flex;
+}
+
+main,
+div.weather {
+    flex-direction: column;
+}
+
+main,
+div.top {
+    justify-content: space-between;
+}
+
+div.crypto-top,
+div.weather,
+div.weather-top {
+    align-items: center;
+}
+
+/* Font and Spacing */
+
+div.crypto {
+    font-size: 1.3rem;
+}
+
+div.crypto-top {
+    font-weight: 700;
+}
+
+div.crypto-bot {
+    margin-left: 12px;
+}
+
+div.crypto-bot p {
+    margin: 0;
+}
+
+h1.time {
+    text-align: center;
+    font-size: 5rem;
+}
+
+div.weather-top {
+    font-size: 2rem;
+}  
+
+div.weather-top img {
+    width: 70px;
+}
+
+div.weather-top span {
+    margin-left: -10px;
+}
+
+div.weather-bot {
+    font-size: 1.3rem;
+    margin-top: -10px;
+    padding-left: 15px;
+}
+
+p.author {
+    font-size: 1rem;
+}
