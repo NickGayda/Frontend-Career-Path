@@ -2,7 +2,9 @@ A personal dashboard chrom extension built with HTML, CSS, and JavaScript. This 
 the CoinGecko API to access crypto data, and the OpenWeather API to access the users current weather at their geolocation.
 
 Unsplash API: https://unsplash.com/developers
+
 CoinGecko API: https://www.coingecko.com/api/documentations/v3#/
+
 OpenWeather API: https://openweathermap.org/current
 
 Image of the dashboard:
