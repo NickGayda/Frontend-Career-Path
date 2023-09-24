@@ -1,0 +1,30 @@
+Fundamentals
+- White Space
+	- The empty space between the elements in your user interface.
+- Color
+	- The first UI design fundamental that shapes a user's experience is color.
+	- Avoid using a lot of colors
+- Contrast
+	- Being in a 'strikingly' different state from something else.
+	- WCAG 2.0 Contrast Guidelines (Minimum AA)
+		- The visual presentation of text and images of text has a contrast ration of at least 4.5:1,
+		  except for large text which should have a contrast ratio of at least 3:1.
+	- WCAG 2.0 Contrast Guidelines (Enhanced AAA)
+		- The visual presentation of text and images of text has a contrast ration of at least 7:1,
+		  except for large text which should have a contrast ratio of at least 4.5:1.
+- Scale
+	- The size of every UI element must be carefully considered
+- Alignment
+	- The process of ensuring that every element is positioned correctly in relation to other elements.
+- Typography
+	- Good typography requires the understanding of other fundamentals, along with a few special considerations.
+	- Font Choice
+	- Visual Hierarchy
+	- Font size
+	- Alignment
+	- Letter spacing & line height
+	- Font styles
+	- Color & Contrast
+- Visual Hierachy
+	- Every element on a UI has a level of importance. Some elements are more important than others.
+	  Visual hierarchy is how we establish this importance.
