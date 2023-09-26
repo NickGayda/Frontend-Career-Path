@@ -1,28 +1,5 @@
-# co4254080a9287e85dd0b5db6
+This section focused on refactoring the design of a pre-existing project. Below is the original design of the webpage, with no responsive design.
 
-Quick start:
-
-```
-$ yarn # npm install
-$ yarn build # npm run build
-````
-
-## Development
-
-Run Webpack in watch-mode to continually compile the JavaScript as you work:
-
-```
-$ yarn watch # npm run watch
-```
-
-## About Scrimba
-
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
-
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
-
-Happy Coding!
+![Original Design](https://github.com/NickGayda/Frontend-Career-Path/assets/54640052/1605a365-9d66-4f2e-b16b-9ed6cbf02ec0)
+![Original Design - Nav](https://github.com/NickGayda/Frontend-Career-Path/assets/54640052/b565b86e-7516-42c2-b54d-c2a69549e167)
+![Original Design - Desktop](https://github.com/NickGayda/Frontend-Career-Path/assets/54640052/17fbd0b1-df83-4782-bd74-7e06385fab64)
