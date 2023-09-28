@@ -1,28 +1,8 @@
-# coe1d47e490639c5fdbd36521
+A digital business card about me! This project was a solo project that focused on learning React basics. I used React components to build this basic static page.
 
-Quick start:
+Provided Figma design: https://www.figma.com/file/4ctPLUvIn5b5Ep6YPOZWWd/Digital-Business-Card?node-id=0%3A191&mode=dev
 
-```
-$ yarn # npm install
-$ yarn build # npm run build
-````
+Webpage is hosted here: https://digital-business-card-nickgayda.netlify.app/
 
-## Development
-
-Run Webpack in watch-mode to continually compile the JavaScript as you work:
-
-```
-$ yarn watch # npm run watch
-```
-
-## About Scrimba
-
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
-
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
-
-Happy Coding!
+Below is the image that was provided for the project.
+![Digital Business Card - Requirements](https://github.com/NickGayda/Frontend-Career-Path/assets/54640052/483d3deb-0c64-44f7-a671-4c2ee5af6d6d)
