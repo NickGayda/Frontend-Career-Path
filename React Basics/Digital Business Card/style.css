@@ -1,0 +1,104 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    background: #23252C;
+    font-family: Inter, sans-serif;
+}
+
+.container {
+    background: #1A1B21;
+    color: #FFF;
+    width: 320px;
+    margin: 40px auto;
+    border-radius: 10px;
+}
+
+/* Info section */
+
+.info {
+    text-align: center;
+}
+
+.info img {
+    width: 100%;
+    border-radius: 10px 10px 0 0;
+}
+
+.info h1 {
+    font-size: 25px;
+    margin: 21px 0 0;
+}
+
+.info h3 {
+    color: #F3BF99;
+    font-size: 12.8px;
+    font-weight: 400;
+    margin: 6px 0 0;
+}
+
+.info .link {
+    color: #F5F5F5;
+    font-size: 10.24px;
+    text-decoration: none;
+    margin: 9px 0 0;
+}
+
+.button-container {
+    margin: 15px 30px 0;
+    display: flex;
+    justify-content: space-around;
+}
+
+.button-container .button {
+    width: 115px;
+    padding: 10px;
+    text-align: center;
+    font-family: inherit;
+    font-weight: 500;
+    font-size: 14px;
+    text-decoration: none;
+    border-radius: 6px;
+    display: flex;
+    justify-content: center;
+    gap: 4px;
+}
+
+.email {
+    color: #374151;
+    background: #FFF;
+}
+
+.linkedin {
+    color: #FFF;
+    background: #5093E2;
+}
+
+/* About and Interests Sections */
+
+.content {
+    margin: 30px;
+}
+
+.content h2 {
+    color: #F5F5F5;
+    font-size: 16px;
+}
+
+.content p {
+    color: #DCDCDC;
+    font-size: 10.24px;
+    line-height: 150%;
+}
+
+/* Footer Section */
+
+.footer {
+    border-radius: 0px 0px 10px 10px;
+    background: #161619;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 70px;
+}
