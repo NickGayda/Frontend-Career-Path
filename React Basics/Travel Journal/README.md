@@ -1,28 +1,8 @@
-# co1c54d369fce67195d61fdd7
+An example travel journal webpage. This project was a solo project that focused on learning React basics. I used React components to build this page and the main focus was working on reusing the same component with different props to display the data without having to hard code the values.
 
-Quick start:
+Provided Figma design: https://www.figma.com/file/QG4cOExkdbIbhSfWJhs2gs/Travel-Journal?node-id=2%3A27&mode=dev
 
-```
-$ yarn # npm install
-$ yarn build # npm run build
-````
+Webpage is hosted here: https://travel-journal-nickgayda.netlify.app/
 
-## Development
-
-Run Webpack in watch-mode to continually compile the JavaScript as you work:
-
-```
-$ yarn watch # npm run watch
-```
-
-## About Scrimba
-
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
-
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
-
-Happy Coding!
+Below is the image that was provided for the project.
+![Travel Journal - Requirements](https://github.com/NickGayda/Frontend-Career-Path/assets/54640052/b258c3e6-d0ba-48d8-85d4-31eb5a9e718f)
