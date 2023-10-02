@@ -1,0 +1,102 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: 'Inter', sans-serif;
+    background: #FAFAFA;
+}
+
+#root {
+    width: 550px;
+    margin: 0 auto;
+    background: #FFF;
+}
+
+/* Header */
+
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 6px;
+    background: #F55A5A;
+    color: #FFF;
+    padding: 10px;
+    margin-bottom: 64px;
+}
+
+.header span {
+    font-size: 30px;
+}
+
+.header h2 {
+    font-size: 14.461px;
+    font-weight: 500;
+    letter-spacing: -1.085px;
+}
+
+/* Card */
+
+.card {
+    display: flex;
+    margin: 0 40px 36px;
+    gap: 19px;
+    align-items: center;
+}
+
+.card img {
+    height: 168px;
+    width: 125px;
+    object-fit: cover;
+    object-position: 50% 50%;
+    border-radius: 5px;
+}
+
+.info {
+    display: flex;
+    flex-direction: column;
+    color: #2B283A;
+    line-height: normal;
+    font-size: 10.24px;
+}
+
+.location {
+    display: flex;
+    align-items: center;
+}
+
+.location .material-symbols-outlined {
+    font-variation-settings:
+    'FILL' 1,
+    'wght' 400,
+    'GRAD' 0,
+    'opsz' 24;
+    color: #F55A5A;
+    margin-right: 4px;
+}
+
+.location h4 {
+    font-weight: 400;
+    letter-spacing: 1.741px;
+    margin-right: 12px;
+}
+
+.location a {
+    color: #918E9B;
+}
+
+.info h1 {
+    margin: 0;
+    font-size: 25px;
+}
+
+.info h3 {
+    font-size: 10.24px;
+}
+
+.info p {
+    line-height: 150%;
+    margin: 0;
+}
